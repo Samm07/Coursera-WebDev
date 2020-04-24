@@ -16,7 +16,7 @@ body{
     margin: 00px 0px 40px;
     padding: 00px 0px;
     font-size: 3em;
-    color: white;
+    color: rgb(196, 168, 123);
     position: relative;
     z-index: 1;
     transition: 500ms;
@@ -35,7 +35,7 @@ body{
 
 
 .bg{
-    background-image: url("food.png");
+    background-image: url("css/food.png");
     background-repeat: no-repeat;
     background-position: center;
     z-index: -4;
